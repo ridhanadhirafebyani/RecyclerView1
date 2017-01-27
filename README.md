@@ -1,7 +1,7 @@
 # RecyclerView1
 ###Screenshot Aplikasi
-![alt text](https://github.com/ridhanadhirafebyani/RecyclerView1/blob/master/rv2.png)<br>
-![alt text](https://github.com/ridhanadhirafebyani/RecyclerView1/blob/master/rv22.png)
+![alt text](https://github.com/ridhanadhirafebyani/RecyclerView1/blob/master/ssrv1.png)<br>
+![alt text](https://github.com/ridhanadhirafebyani/RecyclerView1/blob/master/ssrv11.png)
 
 ###Data Diri
 Nama : Ridha Nadhira Febyani<br>
